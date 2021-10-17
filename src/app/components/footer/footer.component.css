@@ -1,0 +1,10 @@
+.social{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    
+}
+
+.social li {
+    margin: 10px;
+}

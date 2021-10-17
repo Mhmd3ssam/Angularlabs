@@ -1,0 +1,13 @@
+.hero{
+    background-image: url(../../../assets/images/hero.webp);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+
+}
+.content{
+transform: translate(100px);
+}
+p,h1{
+    color: white;
+}

@@ -1,0 +1,14 @@
+.skill{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.skill li{
+    margin-right:10px ;
+}
+
+.bak{
+    background-color: thistle;
+}
